@@ -29,15 +29,15 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
            
 
 ### 区别 ###
-   [普通版（弃用）](https://github.com/wangziyingwen/AutoApi)：密钥暴露，不在乎的话可以使用
+   ~~[普通版（弃用）](https://github.com/wangziyingwen/AutoApi)：密钥暴露，不在乎的话可以使用~~
    
    [加密版（推荐）](https://github.com/wangziyingwen/AutoApiSecret)：应用id机密加密隐藏，提高安全性
 
-   [模仿人为应用开发版（半弃用）](https://github.com/wangziyingwen/AutoApiSR)：顾名思义，加密版的升级版。由于超级版兼容模拟版的功能，此版本处于一种尴尬位置。（当然也可以正常使用）
+  ~~[模仿人为应用开发版（半弃用）](https://github.com/wangziyingwen/AutoApiSR)：顾名思义，加密版的升级版。由于超级版兼容模拟版的功能，此版本处于一种尴尬位置。（当然也可以正常使用）~~
    
-   [超级版（不建议）](https://github.com/wangziyingwen/AutoApiS)：进一步升级版，增加自定义参数、模式。按目前情况，微软续订要求很低，暂时不需要使用此项目。
+   ~~[超级版（不建议）](https://github.com/wangziyingwen/AutoApiS)：进一步升级版，增加自定义参数、模式。按目前情况，微软续订要求很低，暂时不需要使用此项目。~~
    
-   **以上推荐/不建议等只是个人意见，请自行选择版本，可同时使用**。
+   ~~**以上推荐/不建议等只是个人意见，请自行选择版本，可同时使用**。~~
 
 --------------------------------------------------------------
 
@@ -147,11 +147,8 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 ### 最后 ###
   教程很直白了，应该都会弄吧！
   
-  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
-  wz.lxh@outlook.com
-  
-  Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
+  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下
   
   最后的最后，再次感谢黑幕/paran大佬
   
-  ————wangziyingwen/酷安id-卷腿毛菌
+  ————wangziyingwen
